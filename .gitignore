@@ -1,0 +1,20 @@
+# Node modules
+CLIENT/node_modules/
+client_new/node_modules/
+STOCKSAVVY_SERVER/node_modules/
+
+# Environment files
+*.env
+
+# React build output
+CLIENT/build/
+client_new/build/
+
+# Python virtual environment + cache
+ml_service/venv/
+__pycache__/
+*.pyc
+
+# OS / IDE junk
+.DS_Store
+.vscode/
