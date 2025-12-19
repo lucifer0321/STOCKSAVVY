@@ -14,7 +14,7 @@ data : last 2 years news data
 Best Model : FinBERT(Finanacial Bidirectional Encoder Representations From Tranformers)
 accuracy:
 
-Input/Output:
+3. Input/Output:
 Stock Price Prediction
 input : last 60 days short term memory data
 output : next 7 days predicted data
